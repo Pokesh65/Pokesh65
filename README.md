@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pokesh65" alt="pokesh65" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://pokesh65.github.io/Portfolio-Pokesh/](https://pokesh-kumar-full-stack-developer.netlify.app/)]([https://pokesh65.github.io/Portfolio-Pokesh/](https://pokesh-kumar-full-stack-developer.netlify.app/))
+- 👨‍💻 All of my projects are available at [[https://pokesh65.github.io/Portfolio-Pokesh/](https://pokesh-kumar-full-stack-developer.netlify.app/)]
 
 - 💬 Ask me about **reactjs**
 
